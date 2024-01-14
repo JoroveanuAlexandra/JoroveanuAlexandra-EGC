@@ -24,6 +24,7 @@ namespace OpenTK_console_sample01
     {
         private object gm;
 
+
         // Constructor.
         public SimpleWindow() : base(800, 600)
         {
